@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Replace RPC in Index.js & App.js
+
 ## Available Scripts
 
 In the project directory, you can run:
